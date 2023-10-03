@@ -1,0 +1,20 @@
+Name,Age,Gender,Income,Email
+John Doe,28,Male,45000,johndoe@example.com
+Jane Smith,35,Female,60000,janesmith@example.com
+Mike Johnson,22,Male,,mikejohnson@example.com
+Emily Davis,,Female,55000,emilydavis@example.com
+Chris Brown,40,,75000,chrisbrown@example.com
+Anna Lee,27,Female,62000,annalee@example.com
+David Clark,32,Male,68000,davidclark@example.com
+Sophia Kim,29,Female,51000,sophiakim@example.com
+Kevin Wilson,38,Male,,kevinwilson@example.com
+Linda Johnson,45,Female,72000,lindajohnson@example.com
+Robert Smith,33,Male,58000,robertsmith@example.com
+Mary Wilson,,Female,62000,marywilson@example.com
+William Davis,28,Male,48000,williamdavis@example.com
+Jennifer Lee,29,Female,53000,jenniferlee@example.com
+Michael Brown,36,Male,70000,michaelbrown@example.com
+Patricia Miller,31,Female,56000,patriciamiller@example.com
+James Taylor,42,Male,80000,jamestaylor@example.com
+Karen Anderson,34,Female,,karenanderson@example.com
+Joseph Martinez,26,Male,49000,josephmartinez@example.com

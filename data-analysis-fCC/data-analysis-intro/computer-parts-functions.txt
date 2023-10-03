@@ -1,0 +1,7 @@
+Mother Board - Nerves/Nervous System
+CPU - Brain
+Heatsink - heat remover for CPU
+RAM - Short-term Memory for Calculation
+Hard Drive - Long-term storage
+Expansion Slots - Upgrade slots (GPU, Wireless Network Card/Wif)
+Power Supply/Battery - Distributes power to computer parts
